@@ -1,6 +1,6 @@
 # snake-for-twitch
 
-Transperant self playing game of snake to use as a widget in OBS for my twitch stream
+Transparant self playing game of snake to use as a widget in OBS for my twitch stream
 
 To use: 
   - clone the repository
